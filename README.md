@@ -7,8 +7,5 @@
  
   </samp>
 </p>
+<summary><b>:telescope: 2022 Target</b></summary> Want to spend a lot of time to improve my coding skills.
 
-<details>
-  <summary><b>:telescope: 2022 target</b></summary>
-  Want to spend a lot of time to improve my coding skills.
-</details>
