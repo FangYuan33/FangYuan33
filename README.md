@@ -7,6 +7,6 @@
  
   </samp>
 </p>
-<summary><b>:telescope: 2023</b></summary> Do something what i want to do.
+<summary><b>:telescope: 2023</b></summary> Do something what i want to do: algorithm, speeking, books and patience.
 <summary><b>:telescope: 2022</b></summary> Want to spend a lot of time to improve my coding skills.
 
