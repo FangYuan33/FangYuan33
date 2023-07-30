@@ -9,7 +9,9 @@
   </samp>
 </p>
 
-![](https://raw.githubusercontent.com/FangYuan33/FangYuan33/main/assets/github-snake.svg)
+<picture>
+  <img alt="github-snake" src="assets/github-snake.svg" />
+</picture>
 
 <summary><b>:telescope: 2023</b></summary> Do something what i want to do: algorithm, speaking, books and english.
 <summary><b>:telescope: 2022</b></summary> Want to spend a lot of time to improve my coding skills.
