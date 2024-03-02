@@ -11,6 +11,7 @@
 
 <img align="center" src="assets/github-snake.svg" />
 
+<summary><b>:telescope: 2024</b></summary> I hope this is the year with the most improvement in coding ability.
 <summary><b>:telescope: 2023</b></summary> Do something what i want to do: algorithm, speaking, books and english.
 <summary><b>:telescope: 2022</b></summary> Want to spend a lot of time to improve my coding skills.
 
